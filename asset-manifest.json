@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/leaft/static/css/main.e6f24892.chunk.css",
+    "main.js": "/leaft/static/js/main.f8635f1c.chunk.js",
+    "main.js.map": "/leaft/static/js/main.f8635f1c.chunk.js.map",
+    "runtime-main.js": "/leaft/static/js/runtime-main.2404511e.js",
+    "runtime-main.js.map": "/leaft/static/js/runtime-main.2404511e.js.map",
+    "static/js/2.a5934d2e.chunk.js": "/leaft/static/js/2.a5934d2e.chunk.js",
+    "static/js/2.a5934d2e.chunk.js.map": "/leaft/static/js/2.a5934d2e.chunk.js.map",
+    "static/js/3.3a294c87.chunk.js": "/leaft/static/js/3.3a294c87.chunk.js",
+    "static/js/3.3a294c87.chunk.js.map": "/leaft/static/js/3.3a294c87.chunk.js.map",
+    "index.html": "/leaft/index.html",
+    "static/css/main.e6f24892.chunk.css.map": "/leaft/static/css/main.e6f24892.chunk.css.map",
+    "static/js/2.a5934d2e.chunk.js.LICENSE.txt": "/leaft/static/js/2.a5934d2e.chunk.js.LICENSE.txt",
+    "static/media/cars.0167fb64.png": "/leaft/static/media/cars.0167fb64.png",
+    "static/media/location.33a78375.svg": "/leaft/static/media/location.33a78375.svg",
+    "static/media/logo.8c5ae3b4.png": "/leaft/static/media/logo.8c5ae3b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2404511e.js",
+    "static/js/2.a5934d2e.chunk.js",
+    "static/css/main.e6f24892.chunk.css",
+    "static/js/main.f8635f1c.chunk.js"
+  ]
+}
